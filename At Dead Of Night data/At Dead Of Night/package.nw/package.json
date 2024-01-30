@@ -1,0 +1,24 @@
+{
+  "name": "At Dead Of Night",
+  "main": "index.html",
+  "description": "FMV Horror Mystery Game",
+  "version": "0.1.0",
+  "window": {
+    "title": "At Dead Of Night",
+    "icon": "adon.ico",
+    "toolbar": false,
+    "frame": false,
+    "width": 1280,
+    "height": 720,
+    "position": "center",
+    "min_width": 1024,
+    "min_height": 576,
+    "max_width": 3840,
+    "max_height": 2160,
+    "kiosk": true
+  },
+  "chromium-args": "--ignore-gpu-blacklist --disable-pinch --forced-compositing-mode --disable-raf-throttling",
+  "webkit": {
+    "plugin": true
+  }
+}
