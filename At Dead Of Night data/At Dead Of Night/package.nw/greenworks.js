@@ -2,7 +2,7 @@
 // Use of this source code is governed by the MIT license that can be
 // found in the LICENSE file.
 
-// The source code can be found in https://github.com/greenheartgames/greenworks
+// The source code can be found in https://github.com/greenheartgames/greenworks/
 var fs = require('fs');
 
 var greenworks;
